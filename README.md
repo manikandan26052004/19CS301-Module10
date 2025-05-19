@@ -17,6 +17,8 @@ STEP 6: Print the result.
 STEP 7 : Stop.
 ### Program:
 ```
+NAME: MANIKANDAN R
+REG NO: 212222220022
 l = []
 n = int(input())
 for i in range(n):
@@ -66,7 +68,7 @@ def fun(n):
 print(f"Stack after rotation {stack}")
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/f42c4ec6-578c-418a-8f66-cf70abe7dc54)
+![image](https://github.com/23013357/19CS301-Module10/blob/main/e.png)
 
 ### Result: Thus, the given program is implemented and executed successfully .
  
